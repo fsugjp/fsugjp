@@ -1,1 +1,3 @@
-fsugjp index page
+# F# Users Group in Japan
+
+F#ユーザーグループへようこそ。
